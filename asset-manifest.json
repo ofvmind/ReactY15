@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactY15/static/css/main.13fd4d41.css",
+    "main.js": "/ReactY15/static/js/main.5b2df4ba.js",
+    "static/js/845.0e080697.chunk.js": "/ReactY15/static/js/845.0e080697.chunk.js",
+    "static/media/click.mp3": "/ReactY15/static/media/click.b944d2a8eeb099fbeb17.mp3",
+    "index.html": "/ReactY15/index.html",
+    "main.13fd4d41.css.map": "/ReactY15/static/css/main.13fd4d41.css.map",
+    "main.5b2df4ba.js.map": "/ReactY15/static/js/main.5b2df4ba.js.map",
+    "845.0e080697.chunk.js.map": "/ReactY15/static/js/845.0e080697.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13fd4d41.css",
+    "static/js/main.5b2df4ba.js"
+  ]
+}
