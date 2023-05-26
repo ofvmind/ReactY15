@@ -37,7 +37,7 @@ const Main = ( { toasts, audio } ) => {
                     ?
                         <Gif />
                     :
-                        <h1>{ toast }</h1>
+                        <h1 style={{color: '#fff'}}>{ toast }</h1>
                     }
                 </div>
                 { click 
@@ -45,7 +45,7 @@ const Main = ( { toasts, audio } ) => {
                     : <button onClick={clicked} className="btn" >{ btn }</button> 
                 }
                 <div className="countGlass">
-                    <h2 style={{ textAlign: 'center' }}>{ count }<br /> чарка</h2>
+                    <h2 style={{ textAlign: 'center', color: '#fff' }}>{ count }<br /> чарка</h2>
                 </div>
             </div>
         );
