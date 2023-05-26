@@ -32,6 +32,7 @@ body {
     padding: 15px;
     border-radius: 10px;
     animation: show 500ms;
+    color: #fff;
 }
 
 @keyframes show {
@@ -52,6 +53,7 @@ body {
     cursor: pointer;
     font-size: 18px;
     font-family: inherit;
+    color: #fff;
 }
 
 .countGlass {
@@ -61,4 +63,5 @@ body {
     padding: 10px;
     border-radius: 10px;
     background-color: black;
+    color: #fff;
 }
